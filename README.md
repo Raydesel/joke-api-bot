@@ -35,5 +35,5 @@ You can select from the following joke types: 'programming', 'christmas', 'misc'
 ![Untitled](https://github.com/Raydesel/joke-api-bot/assets/75050981/4e8c6f8a-8d53-4184-8312-c4a391ae3f38)
 
 References:
-about the API of Telegram: https://core.telegram.org/bots/api
-about the JokeAPI Python implementation: https://github.com/leet-hakker/JokeAPI-Python
+- about the API of Telegram: https://core.telegram.org/bots/api
+- about the JokeAPI Python implementation: https://github.com/leet-hakker/JokeAPI-Python
