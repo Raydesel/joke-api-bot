@@ -37,3 +37,4 @@ You can select from the following joke types: 'programming', 'christmas', 'misc'
 References:
 - about the API of Telegram: https://core.telegram.org/bots/api
 - about the JokeAPI Python implementation: https://github.com/leet-hakker/JokeAPI-Python
+- about Python framework Telepot: https://telepot.readthedocs.io/en/latest/
