@@ -5,7 +5,7 @@ First, create a new bot for Telegram. This is done through the channel here: htt
 Run `/start` to start the interface and then create a new bot with `/newbot`. 
 
 Once it's set up, it will give you the following:
-- The Telegram channel of your bot: https://t.me/<yourusername>.
+- The Telegram channel of your bot: https:/t.me/ <yourusername> .
 - A **TOKEN** to allow access to the bot. Copy it as it will be used later.
 
 
