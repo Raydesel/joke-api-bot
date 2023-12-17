@@ -31,6 +31,6 @@ Open the Telegram channel on your phone using the URL and start it.
 
 You can select from the following joke types: 'programming', 'christmas', 'misc', 'dark', 'pun', 'spooky'
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4f32b134-ffb9-4a24-a457-4694df4e7f6a/d1e2ea69-686e-41de-97fa-8b97440ba257/Untitled.png)
+![Untitled](https://github.com/Raydesel/joke-api-bot/assets/75050981/4e8c6f8a-8d53-4184-8312-c4a391ae3f38)
 
 More about the API of Telegram: https://core.telegram.org/bots/api
